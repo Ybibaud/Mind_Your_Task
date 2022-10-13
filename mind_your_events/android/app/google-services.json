@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "543317439688",
+    "project_id": "mind-your-events",
+    "storage_bucket": "mind-your-events.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543317439688:android:24db9cb734cfc9278161fd",
+        "android_client_info": {
+          "package_name": "MindYourEvents.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543317439688-bok5mfc5kv3qpdgdf4igf5km33nrn1g3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "MindYourEvents.com",
+            "certificate_hash": "632dac93a5913883174656fcd8307ef26155011d"
+          }
+        },
+        {
+          "client_id": "543317439688-sqe99llkp4s5j83dsju9981oospbbo8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR_OcuS59QfNBUxlFx3W9lR0dIdzvq3k0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543317439688-sqe99llkp4s5j83dsju9981oospbbo8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
